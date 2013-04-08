@@ -1,0 +1,1 @@
+This is a blank repository with initial configuration to play with core.logic.
